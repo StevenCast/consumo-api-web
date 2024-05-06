@@ -12,9 +12,7 @@ Este apartado es una review de los fundamentos importantes que se debe conocer e
 ## Instrucciones de uso
 
 1. Clona este repositorio en tu máquina local.
-2. Instala las dependencias ejecutando `npm install`.
-3. Crea un archivo `.env` con las variables de entorno necesarias
-4. Ejecuta la aplicación con `node --watch nombreDelArchivo`.
+2. Ejecuta en la terminal el comando `node --watch nombreDelArchivo`.
 
 ## Autores del proyecto
 
