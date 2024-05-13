@@ -1,13 +1,13 @@
-# Fundamentos - Funciones
+# Objetos - Arreglos
 
 ## Descripción
 
-Este apartado es una review de los fundamentos importantes que se debe conocer en el lenguaje de programación JavaScript
+Este apartado es una review de los fundamentos importantes que se debe conocer en el lenguaje de programación JavaScript (objetos y arreglos)
 
 ## Funcionalidades
 
 - Revisión de conceptos importantes
-- (variables, numbers, strings, etc)
+- (Objetos y Arreglos)
  
 ## Instrucciones de uso
 
