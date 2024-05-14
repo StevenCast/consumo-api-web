@@ -1,13 +1,13 @@
-# Objetos - Arreglos
+# Asincronismo - DOM
 
 ## Descripción
 
-Este apartado es una review de los fundamentos importantes que se debe conocer en el lenguaje de programación JavaScript (objetos y arreglos)
+Este apartado es una review de los fundamentos importantes que se debe conocer en el lenguaje de programación JavaScript (asincronismo y dom)
 
 ## Funcionalidades
 
 - Revisión de conceptos importantes
-- (Objetos y Arreglos)
+- (asincronismo y dom)
  
 ## Instrucciones de uso
 
