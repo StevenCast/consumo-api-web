@@ -1,13 +1,13 @@
-# Asincronismo - DOM
+# Storage - Modules
 
 ## Descripción
 
-Este apartado es una review de los fundamentos importantes que se debe conocer en el lenguaje de programación JavaScript (asincronismo y dom)
+Este apartado es una review de los fundamentos importantes que se debe conocer en el lenguaje de programación JavaScript (storage y modules)
 
 ## Funcionalidades
 
 - Revisión de conceptos importantes
-- (asincronismo y dom)
+- (storage y modules)
  
 ## Instrucciones de uso
 
